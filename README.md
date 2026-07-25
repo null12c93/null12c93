@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba 👋, ben null12c93</h1>
-<h3 align="center">sadece eğlence için (Linus Torvalds)</h3>
+<h2 align="center">sadece eğlence için (Linus Torvalds)</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=null12c93&label=null12c93&color=2630c5&style=plastic" alt="null12c93" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=null12c93&label=null12c93&color=2630c5&style=plastic" alt="null12c93" /> </p>
 <p align="left">
 </p>
 
